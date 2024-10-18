@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SDK_Laboratoire1/1.0.0": {
+        "dependencies": {
+          "LibrairieConversionNote": "1.0.0"
+        },
+        "runtime": {
+          "SDK_Laboratoire1.dll": {}
+        }
+      },
+      "LibrairieConversionNote/1.0.0": {
+        "runtime": {
+          "LibrairieConversionNote.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDK_Laboratoire1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibrairieConversionNote/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
